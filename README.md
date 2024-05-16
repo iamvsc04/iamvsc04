@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamvsc04
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript, MERN Stack.
-- 💞️ I’m looking to collaborate on Full Stcak Development
+- 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me--> https://www.linkedin.com/in/sai-charan-veerlapati-b02923300
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
