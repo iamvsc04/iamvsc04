@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning JavaScript, MERN Stack.
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me--> https://www.linkedin.com/in/sai-charan-veerlapati-b02923300
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: (He/Him)
 
 <!---
 iamvsc04/iamvsc04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
