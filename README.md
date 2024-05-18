@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamvsc04(Veerlapati Sai Charan)
+- 👋 Hi, I’m @iamvsc04   (Veerlapati Sai Charan)
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript, MERN Stack.
 - 💞️ I’m looking to collaborate on Full Stack Development
