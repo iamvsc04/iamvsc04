@@ -22,7 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamvsc04&show_icons=true&locale=en" alt="iamvsc04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvsc04&" alt="iamvsc04" /></p>
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
